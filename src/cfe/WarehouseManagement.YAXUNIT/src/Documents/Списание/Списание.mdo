@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ea178eb5-d759-4e94-8431-7c9e1ed92fc6" extendedConfigurationObject="27e86bf0-8d6b-4e22-b6c3-502c4a052cc4">
+  <producedTypes>
+    <objectType typeId="6909312f-5ca5-4db2-9e25-6ac6ac9f50b2" valueTypeId="7ad1b4a5-adac-4678-adf0-2d4ffafb44f3"/>
+    <refType typeId="a7d280a4-e26e-411a-bbb4-3c6f2f962ecd" valueTypeId="1d08004e-0556-4e43-96d6-9d119c95aac0"/>
+    <selectionType typeId="61ed3511-93bc-4eb8-b609-67818a1d8091" valueTypeId="86c50b6c-88ee-44eb-a40a-22a446ce7fc2"/>
+    <listType typeId="577ecea8-5f2d-4e3a-8f9d-22d27cd9e5f7" valueTypeId="a6538097-c872-4f05-b1c1-786b302a38ca"/>
+    <managerType typeId="8c36a3d4-3f4c-441d-aebb-d684ccac0914" valueTypeId="440fae8e-75c1-4cff-ae7b-9c1ca493acf7"/>
+  </producedTypes>
+  <name>Списание</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <managerModule>Extended</managerModule>
+  </extension>
+</mdclass:Document>
